@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ray Singh 👋
 
 Welcome to my GitHub profile! I’m a developer specializing in building web applications with the **MERN stack**, **SCSS** styling, and efficient **backend API integrations**.
 
