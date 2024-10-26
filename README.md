@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**devraysingh/devraysingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a developer specializing in building web applications with the **MERN stack**, **SCSS** styling, and efficient **backend API integrations**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ My Stack & Skills
+
+- **Frontend**: React.js, SCSS (with partials, mixins, variables), responsive and accessible design.
+- **Backend**: Node.js, Express, Mongoose, and MongoDB.
+- **API Integrations**: Stripe, Facebook, TikTok.
+- **Other Tools**: Git, GitHub, RESTful API development, CORS, CSRF configurations.
+
