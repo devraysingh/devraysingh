@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer with over 8 years of ex
 
 - **Advanced DevOps Practices**: CI/CD pipelines, Infrastructure as Code
 - **Cloud Infrastructure**: AWS, Azure, Google Cloud Platform
-- **Future Endeavors: Expanding my expertise in Machine Learning and AI
+- **Future Endeavors**: Expanding my expertise in Machine Learning and AI
 
 
 ---
